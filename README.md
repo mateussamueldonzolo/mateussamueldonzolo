@@ -8,7 +8,7 @@
 
 ## 🚀 About Me  
 - 🎯 Experienced in modern web development.  
-- 🛠️ Knowledge in **HTML5, CSS3, JavaScript, TypeScript, ReactJS, NextJS, Sass, Bootstrap, NodeJS, Express, MySQL**.  
+- 🛠️ Knowledge in **HTML5, CSS3, JavaScript, TypeScript, ReactJS, NextJS, Sass, Bootstrap, NodeJS, MySQL**.  
 - 🌱 Always learning and improving my skills in **frontend & backend**.  
 
 ---
@@ -16,7 +16,7 @@
 ## 🛠️ Tech Stack  
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,sass,bootstrap,nodejs,express,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,sass,bootstrap,nodejs,mysql" />
 </div>
 
 ---
